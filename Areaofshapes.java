@@ -1,6 +1,5 @@
 
 package cseA;
-
 import java.util.Scanner;
 
 abstract class Shape
